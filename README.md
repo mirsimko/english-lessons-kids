@@ -1,0 +1,28 @@
+# English Lessons for Kids (ages 2–4)
+
+An [Obsidian](https://obsidian.md) vault with play-based English phonics lessons for young children aged 2–4, following the Jolly Phonics approach: each letter sound is learned through a short **story**, an **action**, and a **song**.
+
+## What's inside
+
+- **00 Overview** – the approach, how a 2-year-old and a 4-year-old differ, and the weekly rhythm.
+- **Sounds** – one note per sound for Group 1 (s, a, t, i, p, n) and Group 2 (c/k, e, h, r, m, d).
+- **Lesson Plans** – a week template plus ready-made weeks for Groups 1 and 2.
+- **Resources** – curated YouTube videos that support Jolly Phonics.
+- **Templates** – a generic daily lesson log.
+
+## How to open it in Obsidian
+
+1. Clone or download this repository.
+2. In Obsidian choose **Open folder as vault** and select the repository folder.
+3. Start with [[00 Overview/Start here]].
+
+## Approach in one paragraph
+
+Keep it short, playful and repetitive. Introduce **one new sound per day**, then **repeat the whole set the following week**. Toddlers (around 2) only need the sound, the action and the song as part of play. Pre-schoolers (around 4) can add letter recognition, letter formation and oral blending of simple words.
+
+## License
+
+Content is licensed under [CC BY 4.0](LICENSE).
+
+> [!note] Unofficial resource
+> Jolly Phonics is a trademark of Jolly Learning Ltd. This vault is an independent, unofficial set of notes and is not affiliated with or endorsed by Jolly Learning.
