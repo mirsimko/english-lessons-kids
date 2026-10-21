@@ -7,7 +7,8 @@ An [Obsidian](https://obsidian.md) vault with play-based English phonics lessons
 ## What's inside
 
 - **00 Overview** – the approach, how a 2-year-old and a 4-year-old differ, and the weekly rhythm.
-- **Sounds** – one note per sound for Group 1 (s, a, t, i, p, n) and Group 2 (c/k, e, h, r, m, d).
+- **Sounds** – one note per sound for all seven groups: Group 1 (s, a, t, i, p, n), Group 2 (c/k, e, h, r, m, d), Group 3 (g, o, u, l, f, b), Group 4 (ai, j, oa, ie, ee, or), Group 5 (z, w, ng, v, oo), Group 6 (y, x, ch, sh, th), Group 7 (qu, ou, oi, ue, er, ar).
+- **ChatGPT Lessons** – ready-to-paste ChatGPT voice-mode prompts: one daily lesson per sound for Groups 1–2 plus weekly reviews.
 - **Lesson Plans** – a week template plus ready-made weeks for Groups 1 and 2.
 - **Resources** – curated YouTube videos that support Jolly Phonics.
 - **Templates** – a generic daily lesson log.
